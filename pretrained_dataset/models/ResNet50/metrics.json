@@ -1,0 +1,8 @@
+{
+    "model_name": "ResNet50",
+    "test_accuracy": 0.995077125041024,
+    "test_precision_macro": 0.9942144749450489,
+    "test_recall_macro": 0.9956092359085947,
+    "test_f1_macro": 0.9948987589660722,
+    "param_count": 23534669
+}

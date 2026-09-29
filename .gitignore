@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter / IPynb
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Temporary & Log files
+*.log
+scratch/
+tmp/
+.agents/
+
+# Kaggle credentials
+kaggle.json
+
+# Large Raw Datasets (Track zip via Git LFS if needed)
+Selected_dataset/
+Segmented_dataset/
+PlantVillage-Dataset/

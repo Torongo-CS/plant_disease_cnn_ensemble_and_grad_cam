@@ -1,0 +1,8 @@
+Model Setup,Accuracy (%),Macro Precision (%),Macro Recall (%),Macro F1-Score (%),Weighted F1 (%),Top-3 Accuracy (%)
+DenseNet121,19.12,18.29,13.45,9.97,14.36,45.74
+EfficientNet_B0,20.97,29.45,16.66,11.33,14.68,45.16
+MobileNetV3_Large,20.39,22.46,16.55,12.85,16.25,51.15
+ResNet50,7.26,8.3,5.74,4.38,5.81,20.39
+ShuffleNetV2,22.12,31.95,20.19,14.26,16.46,50.23
+Winning_Ensemble (3-Model),21.43,22.43,16.95,11.92,15.24,50.58
+Full_5Model_Ensemble,22.35,22.68,17.59,11.99,15.79,46.77

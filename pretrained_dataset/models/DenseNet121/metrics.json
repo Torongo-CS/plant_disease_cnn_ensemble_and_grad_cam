@@ -1,0 +1,8 @@
+{
+    "model_name": "DenseNet121",
+    "test_accuracy": 0.9960617000328191,
+    "test_precision_macro": 0.9924434070981353,
+    "test_recall_macro": 0.9962837109428231,
+    "test_f1_macro": 0.9943129929275957,
+    "param_count": 6967181
+}

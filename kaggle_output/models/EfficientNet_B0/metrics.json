@@ -1,0 +1,8 @@
+{
+    "model_name": "EfficientNet_B0",
+    "test_accuracy": 0.9970462750246144,
+    "test_precision_macro": 0.9962551856393056,
+    "test_recall_macro": 0.9969132557060741,
+    "test_f1_macro": 0.9965690694783924,
+    "param_count": 4024201
+}

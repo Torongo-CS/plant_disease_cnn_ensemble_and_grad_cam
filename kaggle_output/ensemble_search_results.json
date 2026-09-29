@@ -1,0 +1,129 @@
+{
+    "winning_ensemble": [
+        "DenseNet121",
+        "EfficientNet_B0",
+        "MobileNetV3_Large"
+    ],
+    "all_combinations": [
+        {
+            "combo_index": 1,
+            "models": [
+                "DenseNet121",
+                "EfficientNet_B0",
+                "ResNet50"
+            ],
+            "val_accuracy": 0.9993436166721366,
+            "val_macro_f1": 0.9994957304052933,
+            "test_accuracy": 0.9983590416803413,
+            "test_macro_f1": 0.9968563294495767
+        },
+        {
+            "combo_index": 2,
+            "models": [
+                "DenseNet121",
+                "EfficientNet_B0",
+                "MobileNetV3_Large"
+            ],
+            "val_accuracy": 0.9996718083360683,
+            "val_macro_f1": 0.9998313741347309,
+            "test_accuracy": 0.9990154250082048,
+            "test_macro_f1": 0.9975567959116298
+        },
+        {
+            "combo_index": 3,
+            "models": [
+                "DenseNet121",
+                "EfficientNet_B0",
+                "ShuffleNetV2"
+            ],
+            "val_accuracy": 0.9993436166721366,
+            "val_macro_f1": 0.9994954639143718,
+            "test_accuracy": 0.9983590416803413,
+            "test_macro_f1": 0.9982787121532386
+        },
+        {
+            "combo_index": 4,
+            "models": [
+                "DenseNet121",
+                "ResNet50",
+                "MobileNetV3_Large"
+            ],
+            "val_accuracy": 0.9996718083360683,
+            "val_macro_f1": 0.9997186506626962,
+            "test_accuracy": 0.998687233344273,
+            "test_macro_f1": 0.9971660500581644
+        },
+        {
+            "combo_index": 5,
+            "models": [
+                "DenseNet121",
+                "ResNet50",
+                "ShuffleNetV2"
+            ],
+            "val_accuracy": 0.9990154250082048,
+            "val_macro_f1": 0.9992094372011443,
+            "test_accuracy": 0.9980308500164096,
+            "test_macro_f1": 0.997889670022407
+        },
+        {
+            "combo_index": 6,
+            "models": [
+                "DenseNet121",
+                "MobileNetV3_Large",
+                "ShuffleNetV2"
+            ],
+            "val_accuracy": 0.9993436166721366,
+            "val_macro_f1": 0.9994090852095794,
+            "test_accuracy": 0.9983590416803413,
+            "test_macro_f1": 0.9982787121532386
+        },
+        {
+            "combo_index": 7,
+            "models": [
+                "EfficientNet_B0",
+                "ResNet50",
+                "MobileNetV3_Large"
+            ],
+            "val_accuracy": 0.9996718083360683,
+            "val_macro_f1": 0.9998313741347309,
+            "test_accuracy": 0.9990154250082048,
+            "test_macro_f1": 0.9989378987276658
+        },
+        {
+            "combo_index": 8,
+            "models": [
+                "EfficientNet_B0",
+                "ResNet50",
+                "ShuffleNetV2"
+            ],
+            "val_accuracy": 0.998687233344273,
+            "val_macro_f1": 0.9986903992449292,
+            "test_accuracy": 0.9983590416803413,
+            "test_macro_f1": 0.9982787121532386
+        },
+        {
+            "combo_index": 9,
+            "models": [
+                "EfficientNet_B0",
+                "MobileNetV3_Large",
+                "ShuffleNetV2"
+            ],
+            "val_accuracy": 0.9993436166721366,
+            "val_macro_f1": 0.9993539491634186,
+            "test_accuracy": 0.9990154250082048,
+            "test_macro_f1": 0.9989120888159042
+        },
+        {
+            "combo_index": 10,
+            "models": [
+                "ResNet50",
+                "MobileNetV3_Large",
+                "ShuffleNetV2"
+            ],
+            "val_accuracy": 0.998687233344273,
+            "val_macro_f1": 0.9989539913201125,
+            "test_accuracy": 0.9980308500164096,
+            "test_macro_f1": 0.9981347964048568
+        }
+    ]
+}

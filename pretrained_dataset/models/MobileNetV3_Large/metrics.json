@@ -1,0 +1,8 @@
+{
+    "model_name": "MobileNetV3_Large",
+    "test_accuracy": 0.9977026583524778,
+    "test_precision_macro": 0.9970253732108881,
+    "test_recall_macro": 0.9980570905472693,
+    "test_f1_macro": 0.9975298899827952,
+    "param_count": 4218685
+}

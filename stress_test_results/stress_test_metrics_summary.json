@@ -1,0 +1,58 @@
+{
+    "DenseNet121": {
+        "accuracy": 0.1912442396313364,
+        "precision_macro": 0.18287641733647003,
+        "recall_macro": 0.13447575681961574,
+        "f1_macro": 0.09969098224523386,
+        "f1_weighted": 0.14363963061514423,
+        "top3_accuracy": 0.4573732718894009
+    },
+    "EfficientNet_B0": {
+        "accuracy": 0.20967741935483872,
+        "precision_macro": 0.2944746929731376,
+        "recall_macro": 0.16659398074791565,
+        "f1_macro": 0.11333953853919881,
+        "f1_weighted": 0.1467636815019271,
+        "top3_accuracy": 0.45161290322580644
+    },
+    "MobileNetV3_Large": {
+        "accuracy": 0.20391705069124424,
+        "precision_macro": 0.22464087429162827,
+        "recall_macro": 0.16553818597234027,
+        "f1_macro": 0.12850668940930868,
+        "f1_weighted": 0.1624983009614331,
+        "top3_accuracy": 0.511520737327189
+    },
+    "ResNet50": {
+        "accuracy": 0.07258064516129033,
+        "precision_macro": 0.08303438950264443,
+        "recall_macro": 0.05737370859341159,
+        "f1_macro": 0.04381610920274441,
+        "f1_weighted": 0.058101029999859465,
+        "top3_accuracy": 0.20391705069124424
+    },
+    "ShuffleNetV2": {
+        "accuracy": 0.22119815668202766,
+        "precision_macro": 0.31949306294605306,
+        "recall_macro": 0.20187867191340358,
+        "f1_macro": 0.14256979048159685,
+        "f1_weighted": 0.16462476288220415,
+        "top3_accuracy": 0.5023041474654378
+    },
+    "Winning_Ensemble (3-Model)": {
+        "accuracy": 0.21428571428571427,
+        "precision_macro": 0.22427285583246093,
+        "recall_macro": 0.1695212785839089,
+        "f1_macro": 0.11924936934208624,
+        "f1_weighted": 0.15238984710245507,
+        "top3_accuracy": 0.5057603686635944
+    },
+    "Full_5Model_Ensemble": {
+        "accuracy": 0.22350230414746544,
+        "precision_macro": 0.22676412704469806,
+        "recall_macro": 0.17593098192743115,
+        "f1_macro": 0.1199403121446113,
+        "f1_weighted": 0.15794689819673813,
+        "top3_accuracy": 0.46774193548387094
+    }
+}

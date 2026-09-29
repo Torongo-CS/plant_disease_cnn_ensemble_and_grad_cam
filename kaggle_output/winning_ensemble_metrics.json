@@ -1,0 +1,11 @@
+{
+    "winning_ensemble_models": [
+        "DenseNet121",
+        "EfficientNet_B0",
+        "MobileNetV3_Large"
+    ],
+    "test_accuracy": 0.9990154250082048,
+    "test_precision_macro": 0.9959635935660487,
+    "test_recall_macro": 0.9992228125112903,
+    "test_f1_macro": 0.9975567959116298
+}
